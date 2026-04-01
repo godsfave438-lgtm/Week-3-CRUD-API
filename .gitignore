@@ -1,9 +1,0 @@
-.env
-node_modules
-dist
-coverage
-package-lock.json
-package.json
-.gitignore
-.gitmodules
-.git

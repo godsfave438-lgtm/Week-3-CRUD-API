@@ -1,26 +1,26 @@
 {
-  "dependencies": {
-    "dotenv": "^17.3.1",
-    "express": "^5.2.1"
-  },
   "name": "week-3-crud-api-1",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000\r\u0000 \u0000#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000\r\u0000 \u0000#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000\r\u0000 \u0000#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000\r\u0000 \u0000#\u0000 \u0000W\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000-\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000#\u0000 \u0000W\u0000e\u0000e\u0000k\u0000-\u00003\u0000-\u0000C\u0000R\u0000U\u0000D\u0000-\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
-  "main": "app.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/godsfave438-lgtm/week-3-CRUD#readme",
+  "bugs": {
+    "url": "https://github.com/godsfave438-lgtm/week-3-CRUD/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/godsfave438-lgtm/week-3-CRUD.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/godsfave438-lgtm/week-3-CRUD/issues"
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/godsfave438-lgtm/week-3-CRUD#readme"
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
 }
